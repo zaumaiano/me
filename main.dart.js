@@ -54298,7 +54298,7 @@ A.a10.prototype={
 $0(){return this.a.f6("https://github.com/zaumaiano/")},
 $S:0}
 A.a11.prototype={
-$0(){return this.a.f6("https://github.com/zaumaiano/")},
+$0(){return this.a.f6("https://bityli.com/cogv2L")},
 $S:0}
 A.a12.prototype={
 $0(){return this.a.f6("https://linkedin.com/in/zaumaiano")},
